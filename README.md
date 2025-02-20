@@ -15,10 +15,10 @@ Here are some ideas to get you started:
 -->
 <h1 align="center">🚀 Senior Full-Stack Developer | Video Streaming | AI & Automation </h1>
 
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&color=00BFFF&width=600&lines=Senior+Full-Stack+Developer;Expert+in+Video+Streaming+%26+AI;LiveKit+%7C+WebRTC+%7C+Python+%7C+Rust;Scaling+High-Performance+Applications">
+</h1>
 <p align="center">
-  <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?size=28&color=00BFFF&width=600&lines=Senior+Full-Stack+Developer;Expert+in+Video+Streaming+%26+AI;LiveKit+%7C+WebRTC+%7C+Python+%7C+Rust;Scaling+High-Performance+Applications">
-  </h1>
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600">
 </p>
 
