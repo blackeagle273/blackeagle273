@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">🚀 Senior Full-Stack Developer | Video Streaming | AI & Automation </h1>
+<h1 align="center">🚀 Senior Full-Stack Developer | Ecommerce | React | Vue, Nuxt | PHP </h1>
 
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=28&color=00BFFF&width=600&lines=Senior+Full-Stack+Developer;Expert+in+Video+Streaming+%26+AI;LiveKit+%7C+WebRTC+%7C+Python+%7C+Rust;Scaling+High-Performance+Applications">
@@ -24,10 +24,14 @@ Here are some ideas to get you started:
 
 ## 👋 About Me
 
-I'm a **Senior Full-Stack Developer** specializing in **video streaming** technologies, including **LiveKit, WebRTC, AI-driven video processing, and OTT/TV applications**. With a strong background in **backend systems, AI, and automation**, I deliver high-performance, scalable applications that push the boundaries of digital media. Whether it's **real-time streaming, DeFi applications, or AI-powered platforms**, I turn ideas into reality.
+I’m a Senior Full-Stack Developer specializing in Ecommerce development, including React, Next, Vue, and Laravel. With strong expertise in PHP, Vue, Nuxt, React, Node.js, and Larabel, I build high-performance, scalable backend and frontend systems. Leveraging deep experience in modern web and mobile architectures.
 
 ## 🚀 Tech Stack & Expertise
 
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Vue](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
+![Nuxt](https://img.shields.io/badge/Nuxt-00DC82?style=for-the-badge&logo=nuxtdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
@@ -38,6 +42,7 @@ I'm a **Senior Full-Stack Developer** specializing in **video streaming** techno
 ![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+
 
 ## 📫 Let's Connect!
 
